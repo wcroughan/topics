@@ -1,0 +1,64 @@
+Topic 4
+Top words: ['fact' 'hope' 'test' 'easily' 'reasonable' 'short' 'quick' 'points'
+ 'filter' 'decided']
+Exemplar: meeting EN2002d (240s-360s) - weight 0.6318302387267906
+D: No .
+B: .
+C: It just seems to be occupied . The place is alright , doesn't matter really . There's plenty in there . I
+D: Give you false impressions of what's something's going on . Yeah
+C: had lots of stuff in there yesterday that Did you see
+D: , I know it . Tons , tons
+A: I
+B: Yeah , yeah . And
+C: ? Loads of stuff . Oh no , they live there , but there's
+D: . All those objects , yeah .
+A: I
+C: I had even more stuff there yesterday . I was unzipping all this kind of crazy
+B: really .
+C: huge things that were enormous . I needed them , they were for this though . It's alright , but uh
+D: Right . How's our quota on that ? What's what do actually do you know how much we have
+B: Oh it's huge , several gig I think .
+D: ? Yeah , okay . So we probably won't have to worry about that . Yeah
+A: Yeah . Shoulda run the I_L_ in that directory . Yeah
+C: Yeah , it's uh it's about yeah , it's so I think there's about eight gigs
+D: . Yeah . Okay .
+C: on there . So yeah , it's no problem . It's just much bigger than all
+B: Yeah , something like that , yeah .
+A: .
+C: of our home directories combined , isn't
+D: Yeah , exactly . Um I don't know
+C: it ? .
+A: Sounds good .
+D: . How's everything else going ?
+B: Has anyone had time to to play with it ?
+C: Yeah . I had a play with it um yesterday
+A: Oh . .
+B: Any comments ?
+C: . Uh no , it was good really . Yeah , I liked it . Um uh it uh generated a lot of exceptions in the background . But they didn't cause any problems
+D: Oh , yeah . Actually Do we
+B: Um Oh right .
+C: , but it just
+D: wanna keep that ? Like are we keeping that how that happens ? It just prints everything out in the in the shell as well , like as it does everything , it just kinda I guess that's its default behaviour anyway . So it's just kinda doesn't really do anything
+B: Might as well , yeah . I mean yeah . The thing is that , yeah , there is
+D: . So , okay .
+B: as I said a while ago , there is still this one error which is a bug in in N_X_T_ um that always
+D: Oh , right .
+B: generates these . I think when you when you left-click or right-click or something , I can't remember now . Um
+D: Yeah .
+B: but if it's a real error , then it it stops , so you can't do any any more
+C: Uh yeah , I didn't discover any of those , yeah . I did have a look
+D: 'Kay
+A: It's good thing . Yeah
+B: . Good . Good . Good .
+C: . I prodded it to see if it'd break , but it didn't break too
+A: . .
+D: . Right .
+C: I didn't play that long , but um it seemed alright really , yeah . And it the the the start-up's great , looks quite good
+D: Yeah . Yeah
+C: , looks alright . And so yeah , yeah .
+B: Yeah .
+D: . I was more or less just playing with the things that had to do directly with what I was doing , so I didn't didn't take it for a full [31mtest[0m drive yet . But
+B: Okay . Yeah , be good
+D: uh I can do that . That's well , right after this , yeah .
+A: Yeah . I'll do it .
+B: . Is there any any comments you have about just like wording

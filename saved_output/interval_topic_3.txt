@@ -1,0 +1,18 @@
+Topic 3
+Top words: ['board' 'playing' 'longer' 'complicated' 'fancy' 'browse' 'exact' 'rest'
+ 'understanding' 'integration']
+Exemplar: meeting EN2001b (0s-120s) - weight 0.6114285714285713
+C: .
+A: It's with cameras .
+B: ?
+A: You look quite funny at the moment , Tim .
+B: This isn't supposed to look like just Ah , sod that . Okay , there .
+A: Nice .
+B: Group K_ . Da . Yeah . Yeah , I guess . Whatever . It's yeah , I never get this , so what's the point of if this is strapless if this strap's supposed to go behind I obviously doing this wrong . Obviously failing this like calling centre and
+C: You you have this going behind your ears , the yeah . Yeah .
+B: Like this and then yeah , you
+D: good .
+B: know what the shit has to do now . Okay
+D: Yeah .
+B: . Yes , so um actually I just realise I don't have power , let me just switch on the other which is gonna run out . Okay .
+D: Okay .

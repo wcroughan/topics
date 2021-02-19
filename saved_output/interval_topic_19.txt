@@ -1,0 +1,49 @@
+Topic 19
+Top words: ['window' 'menu' 'characterisation' 'transcript' 'highlights' 'update'
+ 'buttons' 'joke' 'disfluencies' 'save']
+Exemplar: meeting EN2002a (360s-480s) - weight 0.6075880758807589
+C: the speaker [31mcharacterisation[0m yet . we have to first define what what happens when you click on a user .
+D: We have to have a speaker [31mcharacterisation[0m first before we cross any of the other bridges . So yeah , there you
+C: Yeah . Yes . So
+A: Yeah . True , yeah .
+C: should we try try to do a right-click when you then
+D: go . Yeah . Alright . Why not . Even
+B: Yeah .
+A: Is that just from the main main [31mwindow[0m ? Is that is that from any particular
+C: Sorry ?
+D: if only one thing comes up .
+A: [31mwindow[0m , like if we wanna sorta get like if we were on the users versus like topic or something , have a right-click from for these various things to
+C: Yeah . Yes . Wait . Yeah , there's a second thing about the topics
+A: yeah .
+C: , the topic [31mwindow[0m . We wanna somehow click be able to click on a topic and it pops up with all the meetings that contain that . Yeah ? So
+A: Right , yeah . Yep .
+B: Yeah .
+C: we could do that in a similar way , do it right-click as well
+D: Okay . So and so this lot is for
+A: Okay , yeah . Now it's consistent
+C: . And to have a different [31mmenu[0m for our Yeah
+D: um On the
+A: throughout . So , yeah .
+C: .
+D: speaker . And then this lot is on
+C: So yeah . So we have basically two options of of browsing the meetings is by either um searching and opening individual observations . And when then we have the interlinking by right-click basically .
+A: Right . Actually yeah , like um another common thing , like if we have it so it's set up that um if you double-click and it goes to a default thing on the [31mmenu[0m , I mean that's kind of a typical kinda action that would happen . If you double-click on a particular topic
+C: Double-click
+A: or something , then it goes to sort of a like a default view , so it'll be like all the
+C: Oh .
+A: um cases of that topic , either whatever we decide the default to be , whether it's in all meetings or just in one meeting , and just show up the the particular instances of that topic in a meeting . Like I'm just thinking to have the default there , so
+C: Hmm .
+A: if somebody knows exactly what they wanna do and we know that that's the most common thing that's gonna happen , so the double-click will do that and so [31msave[0m them the trouble of
+C: Yeah . I don't
+A: right-clicking and choosing the item on the [31mmenu[0m .
+B: Yeah .
+C: see there's anything obvious that was that would be able , you know , that would be
+A: Well , it might come to us as we start playing with it .
+B: Yeah .
+D: What was that ? I didn't quite understand . Do you mean
+A: Um like we have the the right-click [31mmenu[0m . You'll have
+B: Uh just let
+D: Yeah .
+A: the [31mmenu[0m , right-click it , but instead of like have a default double-click , so if there's a so it'll be a choice from the [31mmenu[0m
+D: Oh , so and it figures out what's
+B: Yep .

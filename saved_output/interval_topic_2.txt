@@ -1,0 +1,33 @@
+Topic 2
+Top words: ['send' 'email' 'monday' 'meet' 'hours' 'thursday' 'wednesday' 'address'
+ 'tuesday' 'laptop']
+Exemplar: meeting EN2003a (1920s-2040s) - weight 0.5335907335907336
+A: yeah , a week for the title , and
+C: ? Yeah .
+A: then they would have about ten days from then to actually get the abstract in . Does that sound reasonable ?
+B: Why not just give them a week to do the abstract ? I mean I'm just thinking about um
+A: Just put it here , yeah ? The eleventh . A bit earlier . So I'm saying a week from when I [31msend[0m it out
+B: Oh no no no , I was I was saying just give them a bit longer to get back with the title . Say get back with the title by the seventh . Or do we need ten days to go from
+C: Mm-hmm . Yeah .
+A: That would be a week anyway . That would be a week anyway , but you can give them ten days to you can give them ten days to get the title , or you can give them it depends which way around you
+C: Yeah .
+B: Yeah .
+A: wanna do it . So what's gonna take them longer actually to decide what they're gonna do and [31msend[0m the title , or is it gonna be on the basis of the title , do they want more time to write the abstract .
+C: Uh I think if they're really serious to be a bit late with the title might not be bad , because it will help them to Yeah .
+A: So give them the seventh , yeah ? Okay , so
+B: Mm yeah .
+C: Yep .
+A: So Monday the seventh is the title . And this presumably will apply across the board . Like um
+B: Mm-hmm .
+C: Yep .
+A: And Monday the fourteenth for the abstract .
+B: And we've got we've got an [31memail[0m [31maddress[0m for them to [31msend[0m all this to , haven't we ? Or what was it ?
+A: Well we we kind of have . I uh we were given
+C: Getting access to the uh to the account . Blah blah blah blah .
+A: The only thing is is accessing the account . They can [31msend[0m it to P_G_C_ at ling as long as we can get the
+B: Yeah .
+C: Yeah . Yep .
+A: I'll tell you what I'll do then , I'll go and see Mike today and and get the password and everything . 'Cause we possibly have it , but I'll just sort that out with him . Because if we're gonna tell everyone to [31memail[0m P_G_C_ , then we have to make pretty sure that we can actually access the account and that it's operational and stuff
+B: Mm .
+A: . 'Cause uh so far I've just been using my own uh [31memail[0m [31maddress[0m . But it would be better it's quite easy to [31msend[0m from an [31memail[0m
+C: Mm-hmm .

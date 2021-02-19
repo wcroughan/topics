@@ -1,0 +1,29 @@
+Topic 17
+Top words: ['feature' 'alpha' 'lyman' 'absorption' 'spectral' 'spectrum' 'damped'
+ 'soft' 'blue' 'quasar']
+Exemplar: meeting EN2006b (2400s-2520s) - weight 0.8715025906735752
+B: I think should be in there .
+C: S Yeah , okay . Yep .
+B: emission lines . Quasars I missed .
+C: Yep . Ooh . Those shouldn't be there , should they ? No .
+B: Damped Lyman also is not systems , yeah .
+C: Oh okay , okay , okay .
+A: Well hang on though , but um Is it just um to scrub your mechanism there ? It isn't uh a [31mspectral[0m [31mfeature[0m such as
+C: yes .
+B: Mm no , I think it's a [31mspectral[0m [31mfeature[0m . You can point to the [31mdamped[0m
+A: oh , it's a process .
+B: Lyman [31malpha[0m resorption , in in the same way you can point to H_ beta emission , although H_ beta emission is a process . Or emission from H_ beta is is a process .
+C: I think this is what we agreed to cross out before
+A: Mm-hmm .
+C: , isn't it ?
+B: No , the [31mdamped[0m Lyman [31malpha[0m [31mabsorption[0m systems we crossed out . We also crossed out
+A: Mm-hmm . I think it's a process myself .
+C: I think it's a process too , I think Especially when uh they're saying we're we're choosing low red-shift [31mabsorption[0m . That's not really something you can point to .
+B: What did we do back Mm you can point to low red shift [31mdamped[0m Lyman [31malpha[0m [31mabsorption[0m 'cause you're shifted in the [31mspectrum[0m there .
+C: Mm . I'm not too fast , I don't think .
+B: Um would it be if it was H_ beta [31mabsorption[0m ? And you just took out the low red shifts . Quasars with H_ beta [31mabsorption[0m you'd put in .
+C: Mm no I'm not sure .
+B: Because it's a [31mspectral[0m [31mfeature[0m . I think [31mdamped[0m Lyman [31malpha[0m [31mabsorption[0m
+C: It's whether it's a process or a a [31mfeature[0m . But I can't remember what we've done before .
+B: I think it's both . Because we've every [31mfeature[0m is produced
+D: Sorry

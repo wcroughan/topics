@@ -1,0 +1,25 @@
+Topic 11
+Top words: ['manager' 'agreement' 'displays' 'threshold' 'honest' 'provide' 'zoom'
+ 'agreements' 'vera' 'disagreement']
+Exemplar: meeting EN2001d (3000s-3120s) - weight 0.553307392996109
+B: dialogue box for opening stuff . It might be it might take half an hour in the display and not more than that .
+D: Mine , I'll need to make a minor addition to the data [31mmanager[0m and the summariser . But it's more or less ready
+B: Hmm . But it might I think it
+D: to go with that .
+B: might not really be worth it to be [31mhonest[0m . Let's work on the other stuff first , like the other stuff , and just [31mprovide[0m like something where each of them just if if there's uh a Jasmine script and a Vera script and they each can load their stuff and see their data in in the thing . They they each can see it summarised by their data , and the other one is the static one . That should be fairly easy to do
+D: Okay . Yep .
+B: , right ? If I just double the display and you make a uh like a non-synched up second dialogue
+D: Mm-hmm .
+B: acts . And yeah
+D: Yeah , should be easy .
+B: , and then they can tune , fine-tune their measures . I think it would be cool if we could check the NITE clock code or whatever code it is for this component and see if we can access those rate things and and do something useful with them and get notified when they change and stuff .
+D: We could just make that rate be something completely different , just disconnect it from whatever it's doing , and then have that set the length of the summary
+B: Yeah , I think Yeah , I think that's what we should do . So the
+D: or something like that .
+B: the thing is it's probably an easy task to read that rate , but it's probably more difficult to get an event automatically when it's changed . So that's why we might have to extend NITE clock and like override the function that react to that . Or like the rate is probably a property , which
+D: Mm .
+B: in the worst case we'd have to set public , but if we wanna react to it being changed automatically , we might have to .
+D: Well it doesn't it doesn't react to it being changed automatically . It only reacts when you press play at the moment
+B: Okay
+C: So
+E: Yeah

@@ -1,0 +1,22 @@
+Topic 16
+Top words: ['value' 'values' 'displayed' 'stamps' 'extract' 'attributes' 'relative'
+ 'boundaries' 'attribute' 'base']
+Exemplar: meeting EN2001b (1200s-1320s) - weight 0.5863414634146341
+B: structure there . So would it be easy for you to to tie the things together . Like if you're doing it on on the word basis here with those words , that in the end you then tie it back in into the right segment here . I mean you probably have to do a bit of
+A: Um yeah , I I don't know how about you with your words , but um for my segments were the um F_ zero measurements and all those [31mvalue[0ms I get from there . Um
+B: Hmm .
+A: I always store the uh start and end time of everything I calculated there , so I would just have to put it uh yes
+B: You're doing it time-[31mbase[0md at the moment . So this isn't directly having
+A: .
+B: time references , but you can get the oh , it is actually here .
+A: Yeah , it is .
+B: Okay . So if you slice it up by time , you'd probably be able to just like attach like just some [31mattribute[0m of info val just to each of those segments .
+A: Uh but actually my segments are not always the same as their segments , because and their segments , there are um Pause um pauses sometimes .
+B: Mm-hmm .
+D: Yeah , can you not just leaves those lines blank ?
+A: Um yes , but uh yeah , I mean one segment of theirs is sometimes two segments of mine , that's just what I meant .
+D: Oh alright . Okay .
+B: 'Kay . Um I don't understand enough of what their data structure is . This probably would be a lot easier would I really understand how they are handling the data internally , 'cause then we then I could say oh , it's easy to just tie it in if you just have it time-stamped that just reference by words and stuff . But at the moment So you would you're doing you're doing a word by word [31mbase[0m .
+C: Yeah , the problem is probably that um I [31mextract[0m all the words and then uh
+B: Mm-hmm .
+C: I don't um use an I_D_ or something

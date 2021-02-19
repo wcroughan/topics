@@ -1,0 +1,28 @@
+Topic 21
+Top words: ['option' 'absolute' 'highlight' 'constructor' 'suggest' 'brackets'
+ 'notes' 'behaviour' 'synch' 'numbers']
+Exemplar: meeting EN2002c (120s-240s) - weight 0.39926199261992623
+C: , is there a particular type of control that like is there one of these N_X_T_ or sorry , um NITE controls ? N_O_M_ or
+A: Um I think there is . Just because um the the topic box and all this is um is based on um , oh what's it called , no , NITE text area or something . In text area , is that what it is
+C: Okay .
+A: ? Um it has some sort of [31mhighlight[0ming stuff there . So you should probably look at the Um I'm not sure if it's in-built though , to be honest .
+C: Mm . You haven't had to build any new windows to do that sort of thing . Like other topics or well we're gonna do one for speaker I guess and all the rest , right ? Or no ? No . Well okay , um
+A: What what what
+C: when we talk about speaker characterization , how are we accessing the list of speakers ?
+B: T uh I wanted to talk about that actually . Um this speaker , um the data processing is fine , but uh we don't particularly want to do the the the the GUI for it . No , not really . If
+A: You don't . Okay , I'll do it . Yeah , I I was thinking
+C: Okay .
+B: if you wanna do that , then then tell me how
+A: about uh I was going that direction anyway .
+C: Right .
+B: you want the data presented , how the 'cause Do you want me to tell you ? Okay , like , 'cause at the moment
+A: Yeah , that
+B: , the the there is I've created two classes , one that represents speakers , one that represents the meetings , and the and the information about both is contained within each object . So and then they it writes objects and the objects contain all the information about the meetings and the speakers . So that the who the speakers that are at the meetings and the amount they speak , and then the averages are contained with the speakers . So there's two separate class , aren't there . And they all they're two
+A: Okay , yeah . So
+B: different objects , and you can recall they can write the it writes the objects and then you call the objects back and they those returned objects have all the information that they need , and then you can call methods to return whatever you want . Or everything
+A: Okay , yeah , I see what you mean . I think . I think .
+B: , but that's why I wanted to know how what's the easiest way to have the data .
+A: So um I uh have you already calculated all this
+C: Hmm .
+A: data or are you supposed to do that
+B: Yeah , supposedly all calculated

@@ -1,0 +1,41 @@
+Topic 12
+Top words: ['mouse' 'gaze' 'fixations' 'fixation' 'blink' 'blinks' 'events' 'opposed'
+ 'period' 'tracks']
+Exemplar: meeting EN2009d (1680s-1800s) - weight 0.6471482889733842
+B: It's yeah , okay , right .
+C: if what you have is a sort of larger error or of error margin around it .
+B: Okay . So my question was going to be alright , the the
+D: Yeah .
+B: [31mmouse[0m is a dynamic object , right . The eye track is a dynamic object ? Or is it only the the piece that the eye the other person's eye track is on that's that's an object in this definition ?
+C: Uh no . The the other person's [31mgaze[0m position as well . Mm-hmm . Yep
+B: Is a is an object . Okay . With some with plus or minus
+C: . treated the same as as the [31mmouse[0m say . Yep . Mm-hmm .
+B: something or other , yeah , around it . Some circular area . Okay
+C: Yes , yep .
+B: . And Um so you can be on the object but not on the other person's [31mgaze[0m . So there can be a triangle which has A_'s [31mgaze[0m in
+C: Yes . So if there uh if mm-hmm .
+B: the centre and your [31mgaze[0m actually happens to be here . You're in the triangle region
+C: Yes . But not looking at their individual
+A: Mm-hmm .
+B: . Does this Okay
+C: and fact , they probably will avoid looking directly . Because
+B: .
+C: if they're looking directly at it , it's obscuring the the part .
+B: But it's directly added when when these two in this situation when these two overlap
+C: Mm-hmm . Yeah , mm-hmm .
+B: , right , like this . Mm-hmm . Mm-hmm . Mm-hmm . Mm-hmm
+A: Yeah .
+B: . Mm-hmm . Well it would come up it would say
+C: The
+B: yes , right ? I mean because they would be in the same place . So if you you're gonna have dynamic
+A: I don't know .
+C: Mm-hmm . Mm-hmm
+B: regions which overlap one another by definition . If the [31mmouse[0m is on the construct , then
+C: . The the [31mmouse[0m , the [31mgaze[0m and the part are all layered
+B: right , right .
+A: Well well but those are different [31mtracks[0m of information
+C: .
+A: . So what you want is one track of information about which object
+B: Right .
+A: it's one , one about whether or not it's on the other guy's [31mgaze[0m , and one about whether it's on um one of the [31mmouse[0m positions .
+B: We treat those as as other objects . But the difference between them and the the parts of the thing

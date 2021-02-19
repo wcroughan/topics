@@ -1,0 +1,29 @@
+Topic 22
+Top words: ['poster' 'philosophy' 'posters' 'linguistics' 'year' 'psychology'
+ 'coffee' 'inviting' 'claire' 'linguists']
+Exemplar: meeting EN2003a (1080s-1200s) - weight 0.5839195979899497
+A: Okay , so we got some sort of idea of the structure and how many talks we're going to be able to have . I mean
+B: Well the maximum . I mean I guess that that will evolve uh when we get a response from people , perhaps . But that's fine , isn't it ? So we've got
+A: Yeah . Okay . So I've uh
+B: three days .
+A: Okay , so English language um we'll put on the main call , and I'll just I'll just kinda market it as an [31mlinguistics[0m and English language or something like that , I think .
+B: Mm-hmm . And is the the other main group then um [31mphilosophy[0m ? Oh yeah
+A: Yes , and Informatics , we could think about it as well .
+B: .
+A: So I had a look at whether they do [31mphilosophy[0m of a language and logic and stuff here , and they kind of do . There's about there's about three or four
+C: I think they do .
+A: uh full-time members of staff that list um [31mphilosophy[0m of language as a major interest , so chances
+B: Mm .
+A: are they're gonna have some P_H_D_ students that uh are interested . So do we think we should invite them ? I think I'd be surprised if we got sort of four out of them . I think that would be amazing if we did
+B: Mm .
+C: Still Yeah .
+A: . So I think it's probably worth I don't think we're gonna get inundated with requests . So I think it's worth asking
+C: Yeah .
+A: them . Yeah .
+B: Philosophy . And do you think Informatics would
+A: I mean I think the Informatics are definitely worth asking . Uh there's there's C_S_T_R_ and um H_C_R_C_
+C: Mm-hmm .
+A: .
+B: Mm . I mean I'm thinking that the Informatics potentially is quite a big response . Um
+A: Yes . It is .
+C: Yeah , might be interesting stuff coming in

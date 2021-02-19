@@ -1,0 +1,40 @@
+Topic 1
+Top words: ['star' 'galaxies' 'galaxy' 'burst' 'radio' 'band' 'instrument' 'ratios'
+ 'a_g_n_' 'narrow']
+Exemplar: meeting EN2006b (2640s-2760s) - weight 0.8305676855895198
+B: [31mstar[0m [31mburst[0m nuclei . You're right . Oh . The object . If it was [31mstar[0m [31mburst[0m [31mgalaxies[0m
+C: Oh .
+B: , it would be in there . Star [31mburst[0m nuclei refers to a region within an object which would not be observed separately
+A: Yeah , that's right . Yeah
+C: Oops .
+A: , I wouldn't , yeah .
+B: . Um
+C: Yep , that's fine .
+D: Sorry , what what happened now ? So you you you found that
+B: Okay .
+D: dwarf amorphous blah blah [31mgalaxies[0m , that that's not a proper name ? But you still include the acronym ? Or
+B: Because the acronym has [31mstar[0m [31mburst[0m in it uh [31mgalaxies[0m in it , in the S_ , and if the acronym includes its
+D: Oh okay . Alright , okay . I see , mm-hmm .
+B: Then it has to be in there . Continuum flux you can have .
+C: Mm-hmm .
+B: U_V_ and optical emission line [31mratios[0m . But
+C: Yeah .
+A: I think all of that goes then , doesn't it ? Surely . No .
+C: We wouldn't have line [31mratios[0m . So yeah , that goes .
+B: U_V_ and optical U_V_ and optical emission should be in there though . No , it shouldn't 'cause it it modifies the [31mratios[0m .
+A: No , I don't think anybody goes .
+C: Yeah . No , it modifies [31mratios[0m .
+A: Yeah .
+B: Oh gosh , no emission okay , so
+C: Mm .
+B: I've highlighted this in red and then the whole thing in green because type two Seyfart [31mgalaxies[0m are one . So I think that's
+C: Right . Yep , that's fine .
+B: right , as long as this is
+C: Plus red . Yeah .
+B: T_V_ gamma ray emission . We weren't doing broad-[31mband[0m
+C: We weren't doing broad-[31mband[0m detections . Right .
+A: Mm no .
+B: detections , yeah ? Using the . It is , yes
+C: That's definitely an [31minstrument[0m name .
+B: . Very stupid , but it is .
+C: Right , you're

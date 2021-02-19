@@ -1,0 +1,29 @@
+Topic 8
+Top words: ['home' 'dice' 'worked' 's_s_h_' 'paid' 'discussion' 'design' 'disk'
+ 'tower' 'gotten']
+Exemplar: meeting EN2001a (3240s-3360s) - weight 0.5587982832618027
+E: out of that . Like fifty percent or something with a good algorithm . So if you could compress it and just put it into a temp directory . Like
+D: I'm not sure if there's enough space . Is how much do we get ?
+E: The temp the temps usually have for gigabyte three or two . The temps , yeah . I like
+D: Really ? Okay .
+E: I mean there's not guarantee that anything stays there , but overnight it'll stay . And I think the temps usually have . Ah yeah , but that would have to be the temp directory off the machine you can S_S_H_ into directory of S_S_H_ .
+D: Yeah , but I can do it from that session , can't I ? You can compress it from a remote session and S_C_P_ it from the same session ?
+E: Yeah , they they'd they'd probably hate you for doing it . But They'd probably they'd like you more if you S_S_H_ uh into another computer , compress it there and then sort of copy it into the into the gateway machine . They have um if you
+D: Do you think ?
+E: S_S_ hey , you know , if you if you S_S_H_ and they have this big warning about doing nothing at all in the gateway machine .
+D: Yeah . Oh no no , I was thinking of SSHing just into some machine and then just SCPing it from
+E: Yeah .
+D: there . Yeah . I mean it has
+E: To your [31mhome[0m machine . I haven't I haven't figured out
+D: to go through the gateway . But Can you not do
+E: how to tunnel through the gateway into another machine yet . It's not it's not easy definitely
+D: that ?
+E: . That's why I end up sort of copying stuff into the temp directory at the gateway machine . Sorry if this is boring everybody else
+D: Mm , I see .
+E: . This is just details and how to get stuff [31mhome[0m from what we can probably just look at that together when
+B: Uh yeah .
+D: Yeah .
+E: we're meeting .
+B: 'Kay . Um I just um wondered , so who's uh then doing um the frequencies on on the words , because I'm I think I will also um I could also make use of it um for the agreement and disagreement thing . Because I um
+A: Hmm
+C: Uh

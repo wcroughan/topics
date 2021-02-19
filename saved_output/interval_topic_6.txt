@@ -1,0 +1,14 @@
+Topic 6
+Top words: ['hear' 'transcribe' 'hyphen' 'mister' 'cutting' 'transcriber' 'commas'
+ 'transcribed' 'silent' 'circuit']
+Exemplar: meeting EN2004a (2640s-2760s) - weight 0.5372549019607843
+B: filled pauses , words in stuttering . And if you have um if you have a stuttered word , you don't need to use the [31mhyphen[0m to mark discontinuity . It's just so if somebody says the the
+D: Okay .
+B: , then it's just the the . Um words in
+A: Oh yeah .
+B: uh And what else . Try to get false starts . Short words , make sure with little words like the and uh , little articles and that kind of thing don't get omitted . Um short words and word fragments . Those are the commonly missed things . And then um look for cases of mis-transcription Seems so silly to be writing this all . But anyway , Mis-transcription , so make sure if the speaker said will , you type will not would or um if they say we , even though it might be more grammatically correct to type we're , um that kind of thing . Um cases of ellipsis , where um maybe the [31mtranscribe[0mr typed them , but really what was said was 'em , so where you use the
+C: M_ .
+A: Mm-hmm .
+B: apostrophe . And look for capitalisation I'm not gonna gonna do any more of this . Capitalisation
+A: Oh .
+B: . Spelling . Um , use the O_E_D_ to check on things you don't know about . Um refer to the wiki for all

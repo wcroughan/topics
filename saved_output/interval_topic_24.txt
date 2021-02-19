@@ -1,0 +1,28 @@
+Topic 24
+Top words: ['solving' 'knowing' 'tags' 'state' 'claim' 'phone' 'image'
+ 'collaborative' 'goals' 'busy']
+Exemplar: meeting EN2005a (2520s-2640s) - weight 0.5211895910780668
+A: So yeah . Uh yeah . Stent
+D: Well , we're marking up a lot of higher level things in our
+B: ? You don't know of On yeah , I've uh sorry
+A: yeah Stent might does um yeah . Stent , yeah .
+B: . Um but it it's not been very popular probably 'cause it makes um
+A: Mm no .
+D: Okay . So um have you looked at Nate Blaylock's work ?
+A: Uh so so 'cause I'm I might not familiar with these
+D: So he has things like , you know , adopt um so basically it's to , you know , [31mcollaborative[0m problem [31msolving[0m , you know , more than one person involved
+A: Mm-hmm .
+D: , and trying to characterise things as um You know , if I I can't remember the I can't remember the names of all the actions .
+A: So uh is it the work uh described in the uh in in uh in the coconut project or something similar ?
+D: No , so so the Coconut project is a project that I did with Rich Thomasson and Barbara DiGinio . Have you looked at that
+A: Yeah , yeah , yeah , yeah . yeah , look uh not very
+D: ? Not very clear . No . Though there's
+A: much detail , yeah . Yeah .
+D: a lot of detail in the paper . But you haven't looked at it in very much detail . Okay , so I think you should
+A: No , not . Okay .
+D: , um because it was all these things that are done for joint problem [31msolving[0m and joint action I think are very relevant to look at because these people are [31msolving[0m a problem together
+A: Yeah .
+D: , right . So um while these schemes may not have they have some of the essential components that you need to characterise um joint problem [31msolving[0m . So while um you may think that they're missing something , then we we could certainly augment them . But I think that they have to be looked at . And so so Nate Blaylock tried to okay , so you know , from Gross and Krauss and Gross and Sidener came all this stuff about shared plans and how you really can't understand , you know , dialogue unless you understand shared plans . But the actual theoretical um or formalisation of it was incredibly complex . And so um
+A: Yes , yes .
+D: Lockbaum simplified it quite
+C: Meeting

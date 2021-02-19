@@ -1,0 +1,8 @@
+Topic 15
+Top words: ['exchange' 'relations' 'theory' 'argument' 'scheme' 'interactive'
+ 'actions' 'interactivity' 'exchanges' 'knowledge']
+Exemplar: meeting EN2005a (240s-360s) - weight 0.6980645161290323
+A: a a normal dialogue or monologue . So [31minteractivity[0m is a concept is a concept that I'm using to distinguish the two uh uh extremes of uh of uh of discourse in meetings . And uh for dialogues uh and monologues I think we might have to use different uh concepts to uh model the discourse structure . Then uh I I will uh give a very uh rough plan for the next uh couple of month . And finally I I will introduce some related work , yeah . So the big question that I'm concern here is what's the [31mrelations[0mhip between utterances in multi-party meetings , or how do we analyse discourse structure right above utterances instead of uh those high level intentional structure of discourse ? So the concern here is about the very local low level utterance-to-utterance [31mrelations[0m in multi-party meetings . Uh this is the local discourse structure . So the uh building block of that kind of uh structure would be the uh utterance and possibly one of its properties , the dialogue act which we're currently uh working on or uh and uh for meetings , yeah , so I've mentioned uh uh before that meetings is a bit different from uh monologue and uh dialogues . So uh in
+B: I'm
+D: I
+C: No

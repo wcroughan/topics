@@ -1,0 +1,25 @@
+Topic 20
+Top words: ['frequency' 'dictionary' 'occurs' 't_f_i_d_f_' 'hash' 'frequencies'
+ 'rainbow' 'documents' 'perl' 'categories']
+Exemplar: meeting EN2001b (1920s-2040s) - weight 0.5647577092511014
+B: segments we have them in [31mcategories[0m . You you wouldn't you need several [31mdocuments[0m for each category ? Or several segments for each category .
+C: Um that would be best , but I I would have to look if that .
+B: Do but will it word without that at all ? 'Cause
+C: Um at least it works if there are several [31mcategories[0m with each with one document each , but it um yeah .
+B: Yeah , I mean so in our case basically every every topic would be its own category . And the question is does the algorithm still make any sense in that
+C: Yeah , that's the yeah , I don't know .
+B: I don't understand the algorithm enough for that . But what I'm really like because the entropical um calculation is so simple , maybe we should look into making
+C: Mm-hmm .
+B: that score just as a preliminary score that we have . Like it it's a very it gives you like
+C: Mm okay .
+B: I've looked at the result , it gives you basically something in the end which vaguely tells you just whether a word is a very specific word or a very general word . And
+A: Yes .
+B: I like there is some hope that probably having just sentences where there's lots of very specific words , if you mark them as being more interesting than the words which are only very general words , that they would get us somewhere .
+A: Um and what well , what score would a word get that just [31moccurs[0m once in all the corpus for example ?
+B: Probably one point zero is very high information value .
+A: Even though there are all the other same topics where it doesn't occur ?
+B: Yeah , 'cause this would Yeah , in in a sense I mean this is a bit like the what like document [31mfrequency[0m over total [31mfrequency[0m . Measure it sort of just going by
+A: Mm-hmm .
+D: Hmm .
+A: So would it be higher-scored than a word that um [31moccurs[0m in every um sequence of the same topic ?
+B: What do you mean every

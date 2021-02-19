@@ -1,0 +1,48 @@
+Topic 14
+Top words: ['blah' 'drop' 'options' 'pernilla' 'sunny' 'discussed' 'welcome'
+ 'occurred' 'ranking' 'dunno']
+Exemplar: meeting EN2002c (1680s-1800s) - weight 0.5107246376811595
+B: treat your compound nouns
+C: that ? It's not a compound noun , it's just
+A: Ah .
+B: . like what
+C: two words together . Um in
+B: ?
+C: I don't know . I don't know . Just something like uh Edinburgh University
+A: Language and
+C: . Yeah . Well
+B: As a compound noun . Uh
+C: , essentially , I don't know . Or [31msunny[0m day . You
+A: No , just like Edinburgh and language . alright
+B: Sunny day , yeah . And like an adjective , yeah
+C: know .
+A: .
+B: . Um in its most simple form it would do a separate rank for each one , each term . You could make it more complicated and make it do
+C: Hmm . Let's not make it more complicated
+B: for for the yeah .
+A: And then and then add those up or something . Or what ? How
+C: . Yeah . Because the thing is the thing is that the way we were doing
+B: Yeah . You can just add 'em up
+A: would you combine them , that's the question .
+C: it we were just looking for the words , period , each word in
+B: , or you can Yeah , yeah
+C: the um in the index . Well that's way we were thinking about it . And then then it's just saying were
+B: . Yeah , you don't wanna start looking for
+C: these two words in in any of these documents , and then if it was then we go closer and do the the N_X_T_ search uh to look for the exact
+B: Yeah . Um I guess
+C: term or the regular expression or whatever .
+B: you just do a sum of the um of the the individual T_F_I_D_F_ for each term returned , and that generally will be a bit crude
+C: Yeah .
+B: , but it will give you a score , and the higher the more uh more informative each term is for each thing would give you a a thing . It's
+C: Right .
+B: pretty crude anyway , but it's just looking for um if it's all it's gonna do is look for six separate oh , 'cause then it's gonna go into the N_X_T_ search and return that , isn't it . So mm Yeah
+C: Yeah . Or we choose the list of meetings that we wanted to search to do that . So yeah .
+B: . Yeah , yeah , that's true . So yeah , that's less crude isn't it . But um
+C: Um Like I'm just wondering if if it's gonna give us something cool , then yeah , absolutely , but if it's sort like if the N_X_T_ search has still gotta be run to find these terms or these , you know , these patterns , then uh
+B: Groups of terms . Yeah , without doing any like um word pairs , which is just omission .
+C: Or also like do um wild cards work for something like that ? So if you're looking for wireless , wired , wire , [31mblah[0m , [31mblah[0m , [31mblah[0m , you do wire with a star and um no ? Not
+B: Yeah , I don't know how that works
+C: actually , that's a problem for me too . So Or Pernilla . And uh
+B: . That's how I Yeah . But then the idea is , that gives you an informative
+C: Yeah , 'cause
+B: score . How you combine

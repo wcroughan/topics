@@ -1,0 +1,38 @@
+Topic 10
+Top words: ['recording' 'voice' 'stereo' 'matlab' 'microphone' 'videos' 'recorded'
+ 'dutch' 'trial' 'bleep']
+Exemplar: meeting EN2009d (4080s-4200s) - weight 0.5215434083601287
+B: .
+A: Oh yeah . I
+D: Yes , it's a [31mstereo[0m jack . It's a [31mstereo[0m jack . But it's a mono but it's a mono uh [31mmicrophone[0m . Mono
+A: know but so you you got a solution for that then ?
+D: mono [31mrecording[0m on [31mmicrophone[0ms . Line in . Uh going going through a line in . So it's a so it's a so it's quieter
+A: Oh right , okay . Yeah .
+D: because it's not as though it's not powered . But it's still , think , yeah . We we still pick up a signal .
+B: Can Yeah , can we do
+A: You're sure there's not a better solution that involves 'Cause
+B: can we do something better than that ? Like having
+A: , you know , people might wanna use this for speech recognition or something . You never know if it's the data is
+B: Yeah . Yeah , I mean it's it's crazy . We're in an anechoic
+A: there then You know .
+B: room which we specially , yeah , built an anechoic . But , you know , sound room which we specially built for
+A: Yeah . And you're gonna want forced alignment .
+B: this . We're in good circumstances . We shouldn't screw it up more than we have to . Is there anything we can do to improve this ?
+D: Yeah . Yeah .
+A: Oh no . Well no no . Better to collect
+B: No . No , no . Do you have a powered [31mmicrophone[0m or something .
+A: and sort . Uh well it's the mono
+D: Well the the when they are they are the the they have batteries in them . But there's not doesn't . But doesn't seem to be powered because the because the line input's so low .
+A: Wait wait , I I thought the that a better solution was fixing this problem
+B: Right .
+A: with the mono [31mmicrophone[0m socket . Sound card ? So you said the problem was the the is expecting a mono [31mmicrophone[0m input .
+D: The the sound the sound the
+B: That the line is [31mstereo[0m , the input is mono . Right ? Is that what you said ? Right .
+D: Well the yeah , the the yeah , the the the the jack that is that it's plugged into is [31mstereo[0m . But when you plug in when it's
+B: Is ah .
+D: [31mrecording[0m from [31mmicrophone[0m , it records in mono .
+A: So is that fixable ? Like is there any way yeah . Uh I
+B: That's somewhere in the sound card .
+D: And yeah . A new sound card is fixable .
+A: think a new sound card sounds a better solution than monkeying about with trying to filter white noise out .
+D: Yeah . think we we have a well I I suppose it well one one thing you do is uh is record the speech signal separately for each for each person . But then you'd have to pull the two pull the two sounds together

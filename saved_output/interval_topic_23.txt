@@ -1,0 +1,16 @@
+Topic 23
+Top words: ['memory' 'framework' 'skimming' 'player' 'special' 'numbered' 'database'
+ 'internally' 'stamp' 'series']
+Exemplar: meeting EN2001a (1200s-1320s) - weight 0.7575289575289577
+B: only loads those on demand .
+E: Let's check that out . Um I'll I'll probably ask Jonathan about it . So alternatively , if we realise we can't do the whole thing in one go , we can probably just process some sort of meta-data , you know what I mean , like sort of sort of for the whole [31mseries[0m chunks representing the individual meetings or Like something that represents the whole [31mseries[0m in in a in a structure very similar to the structure in which we represent individual um meetings , but with data sort of always combined from the whole [31mseries[0m . so instead of having an single utterance that we display , it would probably be like that would be representing a whole um topic , a segment in a meeting . And sort of so that using the same data
+B: you mean that you um basically split up the big thing into um different summaries . For example that you have a very
+E: Well , in a sense
+B: um top-level um summary and a separate file for for each level .
+E: Uh I'm I'm thinking of in a sense of like creating a virtual a virtual meeting out of the whole meeting [31mseries[0m , sort of .
+D: That's easy . You just like create a new X_M_L_ document in [31mmemory[0m .
+E: Yeah , sort of like off-line create a virtual meeting , which which basically treats the meeting [31mseries[0m as if it was a meeting , and treats the individual meetings within the [31mseries[0m as if they were segments , and treats the individual segments within meetings as if they were um utterances . You know , so we just sort of we shift it one level up . And in that way we could probably use the
+B: Mm-hmm .
+E: same algorithm and just like make like one or two ifs that say okay , if you are on a whole document uh a whole [31mseries[0m level and that was a double-click , then don't just go into that um segment , but load a new file or something like it , but in general use the same algorithm . That would be
+A: Mm
+C: Yeah

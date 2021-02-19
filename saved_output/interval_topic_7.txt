@@ -1,0 +1,28 @@
+Topic 7
+Top words: ['chunking' 'domain' 'bank' 'yesterday' 'd_f_k_i_' 'switchboard' 'parse'
+ 'alex' 'h_p_s_g_' 'evaluate']
+Exemplar: meeting EN2005a (4080s-4200s) - weight 0.696137339055794
+B: there's hub set A_ is transcribed I think um in final form . You we can check the Wikis . But you know , the data is rolling in . So
+D: So we got stuck at some point on evaluation of [31mchunking[0m , right . The problem was you didn't have ICSI data that was hand labelled for chunks
+A: Or AMI data . no .
+D: . And we decided labelling the ICSI data for chunks would be probably difficult and maybe not very useful . And so it it
+B: And but Barbara still says somebody's done this for chunks . I'll have to look up , you know , so
+A: Okay . So
+D: Okay , if there if there was if there was hand labelled data that you could [31mevaluate[0m so train on some and [31mevaluate[0m on some , wouldn't that um 'cause you've trained on Switchboard , right , where there there are chunks . So
+A: Mm-hmm .
+D: if you had some ICSI data that you could maybe use , I don't know , um as a what's the there's
+A: Yeah .
+D: there's a training set and then there's the development set and then there's the test set . Maybe you'd use some chunked ICSI stuff as development or something and do some last tweaks and then [31mevaluate[0m
+A: Mm-hmm .
+B: Mm .
+D: . But you know , I mean I can see why Wei-Xun didn't wanna spend his time [31mchunking[0m ICSI Which means we have to get some portion of the data hand-chunked .
+B: Hand-chunked . Mm-hmm . But that shouldn't be that hard to do , right ? How much data do you need ? I don't read
+D: How much um well how
+B: lips . What was that ? Was it hard ?
+D: much in Switchboard
+C: .
+D: . Switchboard is all chunked . Right .
+A: Yeah .
+B: Yeah . They the data how much data you need was not a problem with the Switchboard 'cause he had lots . So he didn't have to think about how much . So we need to know how much data you need hand-chunked
+D: Right . Well
+B: . And then uh how do you hand-chunk stuff
